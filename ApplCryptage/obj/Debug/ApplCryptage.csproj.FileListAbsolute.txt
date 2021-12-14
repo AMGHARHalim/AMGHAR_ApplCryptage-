@@ -1,0 +1,20 @@
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.exe.config
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.exe
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.pdb
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.apTV.resources
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.Properties.Resources.resources
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.exe
+C:\Users\DELL\source\repos\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.pdb
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.exe.config
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.exe
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\bin\Debug\ApplCryptage.pdb
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.AssemblyReference.cache
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.apTV.resources
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.Properties.Resources.resources
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.GenerateResource.cache
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.csproj.CoreCompileInputs.cache
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.exe
+D:\BLOC 2\Q1\SE pro\application de cryptage\ApplCryptage\ApplCryptage\obj\Debug\ApplCryptage.pdb
